@@ -1,5 +1,5 @@
 
-// Importing and Exporting Modules:
+// Importing and Exporting Modules
 import { add, subtract } from './mathOperations.js';
 
 let num1 = 10;
